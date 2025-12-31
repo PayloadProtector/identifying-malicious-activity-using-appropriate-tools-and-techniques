@@ -77,7 +77,7 @@ In this exercise, I monitored and analyzed network traffic to identify suspiciou
 * Captured live network traffic  
 * Applied display filters to analyze protocols and traffic patterns
 
-*01-wireshark-capture.png*
+01-wireshark-capture.png
 
 ---
 
@@ -90,7 +90,7 @@ Example command:
 
 `tcpdump -i eth0`
 
-*(02-tcpdump-capture.png)*
+(02-tcpdump-capture.png)
 
 ---
 
