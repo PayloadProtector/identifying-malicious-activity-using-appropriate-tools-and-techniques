@@ -77,7 +77,7 @@ In this exercise, I monitored and analyzed network traffic to identify suspiciou
 * Captured live network traffic  
 * Applied display filters to analyze protocols and traffic patterns
 
-*(Screenshot: Wireshark traffic capture)*
+*01-wireshark-capture.png*
 
 ---
 
@@ -90,7 +90,7 @@ Example command:
 
 `tcpdump -i eth0`
 
-*(Screenshot: Tcpdump capture output)*
+*(02-tcpdump-capture.png)*
 
 ---
 
@@ -101,7 +101,7 @@ In this exercise, I analyzed potentially malicious files in a sandboxed environm
 * Uploaded suspicious files for analysis  
 * Reviewed execution behavior and sandbox reports
 
-*(Screenshot: Sandbox analysis results)*
+*(03-sandbox-analysis.png)*
 
 ---
 
@@ -114,7 +114,7 @@ I validated suspicious domains and IP addresses using multiple threat-intelligen
 * Retrieved domain registration details  
 * Analyzed ownership and registration history
 
-*(Screenshot: WHOIS lookup results)*
+*(04-whois-lookup.png)*
 
 ---
 
@@ -123,7 +123,7 @@ I validated suspicious domains and IP addresses using multiple threat-intelligen
 * Reviewed IP reputation and abuse confidence scores  
 * Analyzed reported malicious activity
 
-*(Screenshot: AbuseIPDB results)*
+*(05-abuseipdb-check.png)*
 
 ---
 
@@ -132,7 +132,7 @@ I validated suspicious domains and IP addresses using multiple threat-intelligen
 * Verified URLs and file hashes  
 * Reviewed detection results from multiple antivirus engines
 
-*(Screenshot: VirusTotal analysis)*
+*(06-virustotal-analysis.png)*
 
 ---
 
