@@ -90,7 +90,7 @@ Example command:
 
 `tcpdump -i eth0`
 
-(02-tcpdump-capture.png)
+02-tcpdump-capture.png
 
 ---
 
@@ -101,7 +101,7 @@ In this exercise, I analyzed potentially malicious files in a sandboxed environm
 * Uploaded suspicious files for analysis  
 * Reviewed execution behavior and sandbox reports
 
-*(03-sandbox-analysis.png)*
+(03-sandbox-analysis.png
 
 ---
 
@@ -114,7 +114,7 @@ I validated suspicious domains and IP addresses using multiple threat-intelligen
 * Retrieved domain registration details  
 * Analyzed ownership and registration history
 
-*(04-whois-lookup.png)*
+04-whois-lookup.png
 
 ---
 
@@ -123,7 +123,7 @@ I validated suspicious domains and IP addresses using multiple threat-intelligen
 * Reviewed IP reputation and abuse confidence scores  
 * Analyzed reported malicious activity
 
-*(05-abuseipdb-check.png)*
+05-abuseipdb-check.png
 
 ---
 
@@ -131,8 +131,7 @@ I validated suspicious domains and IP addresses using multiple threat-intelligen
 
 * Verified URLs and file hashes  
 * Reviewed detection results from multiple antivirus engines
-
-*(06-virustotal-analysis.png)*
+(06-virustotal-analysis.png
 
 ---
 
